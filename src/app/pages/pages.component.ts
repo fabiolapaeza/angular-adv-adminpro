@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import { HeaderComponent } from "../share/header/header.component";
-import { SidebarComponent } from "../share/sidebar/sidebar.component";
-import { BreadcrumbsComponent } from "../share/breadcrumbs/breadcrumbs.component";
+import { HeaderComponent } from "../shared/header/header.component";
+import { SidebarComponent } from "../shared/sidebar/sidebar.component";
+import { BreadcrumbsComponent } from "../shared/breadcrumbs/breadcrumbs.component";
 import { RouterOutlet } from '@angular/router';
 
 @Component({
